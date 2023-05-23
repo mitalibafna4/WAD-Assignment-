@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    padding: 20px;
+  }
+
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  .btn-primary {
+    width: 100%;
+  }
